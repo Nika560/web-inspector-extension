@@ -1,0 +1,13 @@
+.vscode/**
+webview-ui/node_modules/**
+webview-ui/src/**
+webview-ui/public/**
+webview-ui/package.json
+webview-ui/package-lock.json
+webview-ui/vite.config.js
+webview-ui/eslint.config.js
+webview-ui/README.md
+webview-ui/.gitignore
+.gitignore
+.vscodeignore
+temp_prompt.txt

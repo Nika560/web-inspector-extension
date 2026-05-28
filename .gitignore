@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.vsix
+temp_prompt.txt
+inspect_css.json
+.DS_Store
+.vscode/
